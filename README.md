@@ -25,7 +25,7 @@ You need a userscript manager extension:
 
 ### Install the Script
 1. Install a userscript manager (see above)
-2. Click this link to install: **[Install eMag Promoted Remover](https://raw.githubusercontent.com/Hillev/emag-remove-promoted/main/emag-remove-promoted.user.js)**
+2. Click this link to install: **[Install eMag remove promoted](https://raw.githubusercontent.com/Hillev/emag-remove-promoted/main/emag-remove-promoted.user.js)**
 3. Your userscript manager will open - click "Install"
 4. Visit any eMag site and the script will automatically start working
 
