@@ -19,7 +19,7 @@ A userscript that automatically removes promoted/sponsored products from eMag se
 
 ### Prerequisites
 You need a userscript manager extension:
-- **Recommended**: [Violentmonkey](https://violentmonkey.github.io/) (Chrome, Firefox, Edge)
+- **Recommended**: [Violentmonkey](https://violentmonkey.github.io/) (Firefox, Edge)
 - **Alternative**: [Tampermonkey](https://www.tampermonkey.net/) (Chrome, Firefox, Safari, Edge)
 - **Firefox**: [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/)
 
