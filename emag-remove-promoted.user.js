@@ -5,7 +5,7 @@
 // @grant       none
 // @version     2.0
 // @author      Hillev
-// @license      MIT
+// @license     MIT; https://opensource.org/licenses/MIT
 // @description Removes eMag promoted products across all eMag domains (Romania, Bulgaria, Hungary)
 // ==/UserScript==
 (function () {
