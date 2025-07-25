@@ -43,6 +43,9 @@ You need a userscript manager extension:
 ### After  
 ![After - promoted products removed](screenshots/after.png)
 
+### Log 
+![Log - promoted products removed](screenshots/log.png)
+
 ## 🔧 How It Works
 
 The script:
