@@ -30,7 +30,7 @@ You need a userscript manager extension:
 4. Visit any eMag site and the script will automatically start working
 
 ### Manual Installation
-1. Copy the contents of `emag-promoted-remover.user.js`
+1. Copy the contents of `emag-remove-promoted.user.js`
 2. Open your userscript manager
 3. Create a new script and paste the code
 4. Save and enable the script
